@@ -1,4 +1,4 @@
-# EEG-Signal-Processing-using-Muse-headband
+# EEG-Signal-Processing-using-Muse-headband-and-apply-Machine-Learning-algorithms-to-make-it-more-efficient
 I will analyse EEG signals using Muse Headband
 
 EEG signals stands for electroencephalogram signals which are electrical signals from the brain.Previously it was very difficult to capture these signals as we had to use a large number of electrodes(256 electrodes) around the brain and we also had to use electrode gel to bridge the gap between the brain and the electrodes. But now things have changed and people has designed headbands which has made life easy. Nowadays manufacturers have been able to create dry sensors which are efficient to capture brain signals with lower number of electrode making the product commercially viable.
